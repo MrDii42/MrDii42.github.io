@@ -1,0 +1,14 @@
+h1 {
+
+    color: aquamarine;
+    font-size: large;
+}
+
+h2 {
+
+    color: brown;
+    flex-wrap: inherit;
+    display: block;
+    border: black dotted 7px;
+    border-end-end-radius: 45grad;
+}
